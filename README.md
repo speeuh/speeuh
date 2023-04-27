@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Vieira, atualmente atuo como Full Stack Developer e esse é o meu repositório pessoal!
+## Olá eu sou o Lucas Vieira, atualmente atuo como Full Stack Developer Pleno e esse é o meu repositório pessoal!
 <div align="center">
   <a href="https://github.com/speeuh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=speeuh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,6 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/626197_CN3puD9W.png">
 </div>
   
   ##
